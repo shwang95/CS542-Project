@@ -15,7 +15,7 @@ Before using our program, please download and unzip the _Stanford Dog Dataset_. 
 * test: https://www.kaggle.com/c/7327/download/test.zip
 * train: https://www.kaggle.com/c/7327/download/train.zip
 
-After unzip, make sure the files and folders are arranged in the following example:
+After unzip, put all dataset files into a folder called _dog-breed-identification_, make sure the files and folders are arranged in the following example:
 
 ```
 $ tree
